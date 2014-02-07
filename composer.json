@@ -1,0 +1,16 @@
+{
+    "name": "block8/b8-sample-application",
+    "description": "An example application for the b8 framework.",
+    "minimum-stability": "dev",
+
+    "authors": [
+        {
+            "name": "Dan Cryer",
+            "email": "dan.cryer@block8.co.uk"
+        }
+    ],
+
+    "require": {
+        "block8/b8framework": "dev-master"
+    }
+}
